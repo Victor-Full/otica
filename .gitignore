@@ -30,3 +30,7 @@ coverage
 
 # Vite
 *.timestamp-*-*.mjs
+
+# Resultados locais dos testes de navegador
+test-results/
+playwright-report/
